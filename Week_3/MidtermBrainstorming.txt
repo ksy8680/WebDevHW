@@ -1,0 +1,24 @@
+Midterm Project Initial Brainstorming:
+1. Portfolio website (STEM/Business career oriented)
+	-More simple, but clean, focused on professionalism + experience
+	-Portfolio of IDM projects/project samples
+
+2. Portfolio for Music Artist
+	-Inspired by: Keshi, 88Rising, Rex Orange County current websites
+	-Interactive, generative, unique mouse icon
+
+Final Tentative Midterm Project Idea:
+(1) Katherine Yuh Portfolio Website, aimed for
+-Career in UI/UX
+-Career in PM
+-Career in Front end development
+-Career in Entertainment Media
+
+-Should reflect personal brand/make sense with resume, skill set, and jobs applying for
+
+Needed skills:
+1. Creating own logo/for header image and name
+2. Importing gifs into website?
+3. Replacing default clicker with a personalized image? (or maybe not clean enough to send with resume)
+4. How to link Resume pdf w hyperlink
+5. Nav links: About me, Games, UI/UX etc, Contact
