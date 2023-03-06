@@ -1,0 +1,35 @@
+Katherine Yuh
+Wireframing Article Reaction/Notes
+
+NOTES: 
+Five Important Considerations for Wireframing
+-Large part of UX workflow = clear communication + problem solving discussion
+	-wireframing = tool
+
+1. Before designing solution, get to nitty gritty of the problem:
+	-What is the project
+	-What problem is it solving/How do we know its a problem
+	-Who is it for/Where is the page/tool going to live
+-Review previous user research if available
+
+2. Workflows/Sketches
+	-Sketching: what happens after form is successfully submitted/or error, mobile view
+
+3. Get Feedback (Early):
+	-Throughout sketching process, show to developers/designers/PM etc.
+	-Help determine time frame/discover limitations early
+
+4. Know Your Tools:
+	-Omnigraffle = tool for wireframes
+	-Find a tool + get comfortable with it to save time. 
+		-Your time/energy should be spent on creative problem solving/solution communication
+
+5. Know Your Audience:
+	-High-fidelity wireframes: need concept fleshed out as close to reality as possible
+	-Low-fidelity wireframes: simply need to know where interactive elements are on screen w/ description abt how it works
+
+All to help make sure you don't design for the WRONG PROBLEMS or for the WRONG AUDIENCE. 
+
+
+REACTION: 
+	I think this article was super informative and although more of an abstract instead of techincal UX article, I appreciated how the author provided some personal tips that worked for them as well as giving us the name of the author's favorite wireframing tool so we can start playing around right after reading the article. I also really appreciate that this author is giving applicable tips that usually would be learned through experience, but readers can directly apply them when they enter the field. 
