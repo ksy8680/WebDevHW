@@ -60,25 +60,30 @@ div.cap {
 
 img.responsive
 {
-  width:100%;
+  width:90vw;
 }
 
-
-@media screen and (min-width: 300px) and (max-width 799px)
+@media screen and (min-width: 300px) and (max-width: 1090px)
 {
-  img.responsive {width: 600px;}
+  img.responsive {width: 90vw;}
   img.expand {width: 300px; height: 300px;}
 }
 
 @media screen and (min-width: 800px)
 {
-  img.responsive {width: 400px;}
+  img.responsive {width: 90vw;}
+  img.expand {width: 200px; height: 200px;}
+}
+
+@media screen and (min-width: 900px)
+{
+  img.responsive {width: 45vw;}
   img.expand {width: 200px; height: 200px;}
 }
 
 @media screen and (min-width: 1000px)
 {
-  img.responsive {width: 325px;}
+  img.responsive {width: 30vw;}
 }
 
 
